@@ -1,0 +1,1 @@
+unsigned uartCycle(unsigned distance, int load);
